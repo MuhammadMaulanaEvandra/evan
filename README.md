@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=480&lines=Hi!%2C+I'am+Dzulfikar+Fathin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=480&lines=Hi!%2C+I'am+Muhammad+Maulana+Evandra)](https://git.io/typing-svg)
 
 - 🚀 Enthusiastic Informatics student on a learning journey
 - 💻 Venturing into the vast world of web development
